@@ -149,3 +149,4 @@ Resolvimos los errores eliminando el archivo .jar corrupto, cuya ubicación nos 
 
 - Sería beneficioso implementar una interfaz gráfica para mejorar la experiencia del cliente. Esto permitiría una interacción más intuitiva y amigable con la aplicación, facilitando la navegación y el uso de las diferentes funcionalidades ofrecidas por el sistema de gestión de bibliotecas.
 - Sería muy ventajoso desarrollar versiones adicionales de este proyecto para dispositivos móviles (APK) y para acceso a través de una página web. Esto ampliaría significativamente la accesibilidad, permitiendo a los usuarios utilizar la aplicación desde sus dispositivos móviles o a través de un navegador web, brindando mayor flexibilidad y alcance en la gestión de la biblioteca.
+
